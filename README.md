@@ -1,3 +1,2 @@
-# Task2
-//done deal
-//okie dokie 
+//hello
+//conflicts resolved
